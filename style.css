@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    border-bottom: solid white;
+    padding-bottom:0.5em;
+}
+
+main {
+    text-align: center;
+    margin: 0 15em;
+}
+
+main h1 {
+    color: white;
+}
+
+main p {
+    color: white;
+}
+
+option {
+    width: 20em;
+}
+
+.infos {
+    background-color: white;
+    margin: 10px ;
+    border-radius: 10px;
+}
+.infos img {
+    margin: 5px;
+    width: 200px;
+    height: 100px
+}
+
+.infos p {
+    color: black;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
